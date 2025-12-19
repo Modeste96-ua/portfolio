@@ -39,6 +39,7 @@ body{
 }
 
 body.active{
+    --green: rgb(10, 225, 253);
     --black:#fff;
     --light-color:#ddd;
     --gb-color:#222;
@@ -586,6 +587,7 @@ width: 65%;
 /*
 
  }*/
+
 
 
 
